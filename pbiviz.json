@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "barchart",
+        "displayName": "barchart",
+        "guid": "barchart8DD6FC87BA53437E96DCB2AA794B0E3A",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "sample practise",
+        "supportUrl": "http://google.com/",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "ujjwal manna",
+        "email": "test@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": ["node_modules/d3/dist/d3.min.js"],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
